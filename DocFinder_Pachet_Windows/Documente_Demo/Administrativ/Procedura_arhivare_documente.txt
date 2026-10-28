@@ -1,0 +1,9 @@
+PROCEDURĂ DE ARHIVARE A DOCUMENTELOR (internă)
+
+1. Dosarele finalizate se mută în folderul „Arhiva/<an>” la sfârșitul fiecărui trimestru.
+2. Originalele pe hârtie se păstrează în arhiva fizică, cu număr de inventar.
+3. Fișierele se denumesc: AAAA-LL-ZZ_Client_TipDocument_Nr.
+4. Nu se păstrează copii duplicate în folderele personale.
+5. Accesul la arhiva digitală este acordat de administratorul de sistem, cu aprobarea conducerii.
+
+DOCUMENT FICTIV — creat exclusiv pentru demonstrarea aplicației DocFinder. Nu conține date reale.

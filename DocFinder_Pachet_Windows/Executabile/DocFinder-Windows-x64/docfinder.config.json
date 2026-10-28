@@ -1,0 +1,18 @@
+{
+  // Configurare DocFinder — editată de administratorul de sistem.
+
+  // Folderul propus la prima pornire. Exemplu pentru serverul companiei (după aprobare):
+  //   "DefaultSourcePath": "\\\\SERVER\\Documente"      (cale de rețea Windows)
+  //   "DefaultSourcePath": "Z:\\Documente"               (unitate de rețea mapată)
+  // Gol = utilizatorul alege folderul din aplicație.
+  "DefaultSourcePath": "",
+
+  // Foldere ignorate la indexare (după nume).
+  "ExcludedFolderNames": [ "$RECYCLE.BIN", "System Volume Information", ".git", "node_modules" ],
+
+  // Fișierele mai mari de atât sunt găsite doar după nume.
+  "MaxFileSizeMB": 50,
+
+  // Unde se păstrează indexul. Gol = profilul utilizatorului (Windows: %LOCALAPPDATA%\DocFinder\index).
+  "IndexDirectory": ""
+}

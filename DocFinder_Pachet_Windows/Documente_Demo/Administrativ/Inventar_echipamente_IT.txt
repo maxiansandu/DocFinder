@@ -1,0 +1,12 @@
+INVENTAR ECHIPAMENTE IT
+
+Server fișiere (fictiv) ............ 1 buc. — backup zilnic pe disc extern
+Stații de lucru .................... 12 buc.
+Laptopuri .......................... 4 buc.
+Imprimante multifuncționale ........ 2 buc.
+Scanner documente .................. 1 buc. — scanările se salvează ca PDF imagine (fără OCR)
+Router / firewall .................. 1 buc.
+
+Contract de mentenanță: DELTA SOFT SRL, valabil până la 31.12.2026.
+
+DOCUMENT FICTIV — creat exclusiv pentru demonstrarea aplicației DocFinder. Nu conține date reale.
